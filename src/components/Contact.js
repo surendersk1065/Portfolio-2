@@ -19,7 +19,7 @@ function Contact() {
         <a className='d-inline-block mb-2 text-decoration-none text-black' href="mailto:surendersk1065@gmail.com">surendersk1065@gmail.com</a><br></br>
         <a className='d-inline-block mb-2 text-decoration-none text-black' href='http://www.linkedin.com/in/surender-s-a1097a207'><span className='fs-4 me-2'><CiLinkedin /></span>Linked in</a><br></br>
         <a className='d-inline-block mb-2 text-decoration-none text-black' href='https://github.com/surendersk1065'><span className='fs-4 me-2'><FaGithub /></span>GitHub</a><br></br>
-        <a href="./media/new sk resume.pdf" download
+        <a href="./media/sk resume.pdf" download
             className='text-decoration-none rounded bg-danger p-2 text-white d-inline-block mb-2'
         >Download my Resume</a>
       </div>
