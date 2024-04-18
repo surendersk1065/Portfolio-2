@@ -29,10 +29,10 @@ function App() {
     },
     {
       id:3,
-      title : "E-Commerce Website",
+      title : "React Todo App",
       tech : " html and Css",
-      body : "A Responsive E-Comerce Website that allows user to view price,Model and purchase option of the product.",
-      link: "https://surendersk1065.github.io/project1/"
+      body : "Developed a dynamic To-Do application leveraging React.js, Bootstrap, and JavaScript to facilitate seamless task management. Employed CRUD operations (Create, Read, Update, Delete) to enable users to add, view, edit, and remove tasks effortlessly.",
+      link: "https://react-task-app-todo.netlify.app/"
     },
     {
       id:4,
